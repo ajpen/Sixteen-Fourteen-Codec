@@ -1,5 +1,7 @@
 # Sixteen Fourteen Hex Codec
 
+**Note: ** Obligatory *NOT FOR PRODUCTION* warning, although I don't know how you'd use it in production in the first place.
+
 Sixteen Fourteen Hex Codec contains methods for encoding 14 bit signed integers into 16 bit hexadecimals and vice versa.
 
 Sixteen Fourteen Hex Codec or `sixteen14encoding` contains both a CLI application for encoding/decoding and a class exposing `encode/decode` methods.
