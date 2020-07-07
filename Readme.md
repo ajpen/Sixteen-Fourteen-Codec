@@ -1,6 +1,6 @@
 # Sixteen Fourteen Hex Codec
 
-**Note: ** Obligatory *NOT FOR PRODUCTION* warning, although I don't know how you'd use it in production in the first place.
+**Note:** Obligatory *NOT FOR PRODUCTION* warning.
 
 Sixteen Fourteen Hex Codec contains methods for encoding 14 bit signed integers into 16 bit hexadecimals and vice versa.
 
