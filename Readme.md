@@ -21,7 +21,7 @@ Sixteen Fourteen Hex Codec or `sixteen14encoding` contains both a CLI applicatio
 
 `hex_decode 16bit_hexadecimal`  - returns a decoded signed 14 bit integer
 
-*NOTE: both commands output values to stderr. To output to stdout on *nix, append stderr to stdout by appending `2>&1` to the command* 
+**NOTE:** both commands output values to stderr. To output to stdout on *nix, append stderr to stdout by appending `2>&1` to the command* 
 
 **Example**:
 
